@@ -46,22 +46,6 @@ let config_data = {
 		"scan_high_time": 50,
 		"async_mode_enabled": false
 	},
-	"radio": {
-		"hardware": "generic",
-		"rx_data": 21,
-		"rx_vcc": -1,
-		"rx_nmos": -1,
-		"rx_pmos": -1,
-		"rx_gnd": -1,
-		"rx_na": -1,
-		"rx_reset": -1,
-		"rx_cs": -1,
-		"tx_data": 2,
-		"tx_vcc": 4,
-		"tx_nmos": -1,
-		"tx_pmos": -1,
-		"tx_gnd": -1
-	},
 	"serial2net": {
 		"enabled": "true",
 		"port": 1900
