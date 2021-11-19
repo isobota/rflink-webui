@@ -34,9 +34,6 @@ let config_data = {
 		"ap_enabled": true,
 		"ap_ssid": "ESPLink-AP",
 		"ap_password": "",
-		"ap_ip": "192.168.4.1",
-		"ap_network": "192.168.4.0",
-		"ap_mask": "255.255.255.0"
 	},
 	"signal": {
 		"sample_rate": 1,
