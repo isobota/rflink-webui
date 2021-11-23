@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Wifi from './pages/Wifi'
 import Signal from './pages/Signal'
 import Services from './pages/Services'
-import Firmware from './pages/Firmware'
+//import Firmware from './pages/Firmware'
 import Infos from './pages/Infos'
 
 Vue.use(Router);
@@ -17,7 +17,7 @@ export const router = new Router({
     { name:"Wifi",        path: '/wifi',     component: Wifi },
     { name:"Signal",      path: '/signal',   component: Signal },
     { name:"Services",    path: '/services', component: Services },
-    { name:"Firmware",    path: '/firmware', component: Firmware },
+   // { name:"Firmware",    path: '/firmware', component: Firmware },
     { name:"Infos",       path: '/infos', component: Infos },
 
     // otherwise redirect to home
