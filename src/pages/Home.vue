@@ -152,4 +152,9 @@
 	.setting {
 		font-size: 1.05rem;
 	}
+	
+
+	@import url(../assets/components.css);
+
+
 </style>
